@@ -1,0 +1,36 @@
+.news-feed {
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  
+  .news-feed h2 {
+    margin-bottom: 20px;
+    color: black;
+  }
+  
+  .news-feed ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .news-feed li {
+    margin-bottom: 20px;
+  }
+  
+  .news-feed li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .news-feed li a h3 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .news-feed li a p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #666;
+  }
